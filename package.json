@@ -1,6 +1,6 @@
 {
   "name": "@fdebijl/tsconfig",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Shared config for all my Typescript projects",
   "main": "tsconfig.json",
   "files": [
@@ -27,7 +27,7 @@
   },
   "homepage": "https://github.com/fdebijl/tsconfig#readme",
   "scripts": {
-    
+
   },
   "devDependencies": {
     "@semantic-release/changelog": "6.0.1",
