@@ -1,0 +1,37 @@
+{
+  "name": "@fdebijl/tsconfig",
+  "version": "1.0.0",
+  "description": "Shared config for all my Typescript projects",
+  "main": "tsconfig.json",
+  "files": [
+    "tsconfig.json"
+  ],
+  "author": {
+    "name": "Floris de Bijl",
+    "email": "npm@debijl.xyz"
+  },
+  "license": "MIT",
+  "release": {
+    "analyzeCommits": "semantic-release-conventional-commits"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/fdebijl/tsconfig.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  },
+  "bugs": {
+    "url": "https://github.com/fdebijl/tsconfig/issues"
+  },
+  "homepage": "https://github.com/fdebijl/tsconfig#readme",
+  "devDependencies": {
+    "@semantic-release/changelog": "6.0.1",
+    "@semantic-release/git": "10.0.1",
+    "@types/node": "17.0.8",
+    "semantic-release": "19.0.2",
+    "semantic-release-conventional-commits": "3.0.0",
+    "typescript": "4.5.5"
+  }
+}
