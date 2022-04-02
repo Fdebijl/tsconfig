@@ -11,9 +11,6 @@
     "email": "npm@debijl.xyz"
   },
   "license": "MIT",
-  "release": {
-    "analyzeCommits": "semantic-release-conventional-commits"
-  },
   "repository": {
     "type": "git",
     "url": "git+https://github.com/fdebijl/tsconfig.git"

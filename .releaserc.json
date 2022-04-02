@@ -1,4 +1,5 @@
 {
+  "analyzeCommits": "semantic-release-conventional-commits",
   "plugins": [
     "@semantic-release/commit-analyzer",
     "@semantic-release/release-notes-generator",
